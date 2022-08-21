@@ -36,8 +36,8 @@ const int port = 9876; // and this port
 
 #ifdef MODE_STA
 // For STATION mode:
-const char *ssid = "wifiDom";  // Your ROUTER SSID
-const char *pw = "36z21ygy"; // and WiFi PASSWORD
+const char *ssid = "Your_ROUTER_SSID";  // Your ROUTER SSID
+const char *pw = "WiFi_PASSWORD"; // and WiFi PASSWORD
 const int port = 9876;
 // You must connect the phone to the same router,
 // Then somehow find the IP that the ESP got from router, then:
