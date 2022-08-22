@@ -12,7 +12,7 @@ RoboRemoFree - Control Arduino, ESP8266 and others in PlayMarket:
 
 https://play.google.com/store/apps/details?id=com.hardcodedjoy.roboremofree
 
-Pull Tech01_bot_255.interface file to RoboRemo/Interfaces catalofg on you devise, next install and open program -> Menu -> Interface -> Import -> Tech01_bot_255.interface(file):
+Pull Tech01_bot_255.interface file to RoboRemo/Interfaces catalog on you devise, next install and open program -> Menu -> Interface -> Import -> Tech01_bot_255.interface(file):
 
 ![RoboRemo screenshot](https://raw.githubusercontent.com/techn0man1ac/Tech01_bot/main/IMGs/Screenshot_20220822-113308_RoboRemo.jpg)
 
