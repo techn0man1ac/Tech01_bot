@@ -1,6 +1,6 @@
 # Firmwares 
 
-Tech01MotorDriver - Arduino Nano V3(by Techn0man1ac)
+Tech01MotorDriver - Arduino Nano V3( by Techn0man1ac Labs, 2022)
 
 WiFi_UART_Bridge - ESP8266 Board, i configurated it on Access point mode, UDP to UART
 
